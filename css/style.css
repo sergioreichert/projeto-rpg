@@ -32,11 +32,13 @@ header.pag1 nav a{
     font-family: 'Cinzel', serif;
     margin-left: 30px;
     padding: 10px;
-}
+    border-radius: 20px;
+    }
 header.pag1 nav a:hover{
     text-decoration: underline;
     background-color: #37b04780;
-    border-radius: 20px;
+    color: var(--cor5);
+    transition: .5s ease;
 }
 header.pag1 img.logo{
     width: 150px;
@@ -51,15 +53,22 @@ main.conteudo1{
     margin: 0 auto;
     height: 83.6vh;
 }
+.ficha{
+    border: 5px solid #ddd;
+    border-radius: 4px;
+}
 article.texto1{
     color: white;
     font-family: 'Cinzel', serif;
     font-weight: normal;
     font-size: 1em;
     width: 500px;
-    text-shadow: 9px 9px 9px rgba(0, 0, 0, 0.89);
 }
-
+.sotexto{
+    background-color: rgba(0, 0, 0, 0.253);
+    padding: 10px;
+    box-shadow: 3px 0px 20px rgba(0, 0, 0, 0.377);
+}
 h1.bagual{
     font-family: 'Cinzel', serif;
     font-weight: bold;
@@ -74,7 +83,7 @@ footer{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #16471d9a;
+    background-color: #1c5924b8;
     color: white;
     font-family: 'Cinzel', serif;
     font-weight: normal;
