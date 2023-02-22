@@ -46,15 +46,20 @@ main.conteudo1{
     display: flex;
     align-items: center;
     flex-direction: row-reverse;
+    justify-content: space-between;
     width: 1200px;
     margin: 0 auto;
     height: 83.6vh;
 }
-.texto1{
+article.texto1{
     color: white;
     font-family: 'Cinzel', serif;
     font-weight: normal;
     font-size: 1em;
+    width: 500px;
+}
+.rosa{
+    filter: box-shadow(2em 2em 5px rgba(255, 255, 255, 0.979));
 }
 h1.bagual{
     font-family: 'Cinzel', serif;
@@ -62,7 +67,6 @@ h1.bagual{
     margin-bottom: 25px;
 }
 p.dojogo{
-    margin-right: 150px;
     text-indent: 10px;
     text-align: justify;
 }
