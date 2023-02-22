@@ -57,6 +57,7 @@ article.texto1{
     font-weight: normal;
     font-size: 1em;
     width: 500px;
+    text-shadow: 9px 9px 9px rgba(0, 0, 0, 0.89);
 }
 
 h1.bagual{
