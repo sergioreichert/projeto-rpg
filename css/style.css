@@ -56,6 +56,8 @@ main.conteudo1{
 main.conteudo1 img.ficha{
     border: 5px solid #ddd;
     border-radius: 4px;
+    transform: rotate(5deg);
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.74);
 }
 article.texto1{
     color: white;
@@ -90,4 +92,10 @@ footer{
     font-size: 1em;
     height: 60px;
 
+}
+footer a{
+    color: white;
+}
+footer a:hover{
+    text-decoration: underline;
 }
