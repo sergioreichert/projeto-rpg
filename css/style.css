@@ -17,7 +17,7 @@ html, body{
     height: 100%;
 }
 body{
-    background-image: url('../img/Criação-do-site-do-grupo-de-rpg.jpg') ;
+    background-image: url(../img/Criação-do-site-do-grupo-de-rpg.jpg) ;
     background-size: cover;
 }
 header.pag1{
