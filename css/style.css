@@ -25,7 +25,7 @@ header.pag1{
     justify-content: space-between;
     align-items: center;
     padding: 20px;
-    background-color: #1c592444;
+    background-color: #1c5924b8;
 }
 header.pag1 nav a{
     color: white;
@@ -71,7 +71,7 @@ footer{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #1c592444;
+    background-color: #16471d9a;
     color: white;
     font-family: 'Cinzel', serif;
     font-weight: normal;
