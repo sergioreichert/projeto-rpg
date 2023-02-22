@@ -58,9 +58,7 @@ article.texto1{
     font-size: 1em;
     width: 500px;
 }
-.rosa{
-    filter: box-shadow(2em 2em 5px rgba(255, 255, 255, 0.979));
-}
+
 h1.bagual{
     font-family: 'Cinzel', serif;
     font-weight: bold;
