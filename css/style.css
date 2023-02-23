@@ -54,7 +54,8 @@ main.conteudo1{
     justify-content: space-between;
     width: 1200px;
     margin: 0 auto;
-    height: 83.6vh;
+    /* height: 83.6vh; */
+    height: calc(100vh - 152.496px); /*não esquecer de somar a altura do header e footer para calcular a altura da main*/
 }
 main.conteudo1 img.ficha{
     border: 5px solid #ddd;
