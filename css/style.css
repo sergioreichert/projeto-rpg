@@ -20,6 +20,7 @@ html, body{
 body{
     background-image: url(../img/Criação-do-site-do-grupo-de-rpg.jpg) ;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 header.pag1{
     display: flex;
