@@ -103,3 +103,9 @@ footer a{
 footer a:hover{
     text-decoration: underline;
 }
+
+/* A SEGIR É O MODO RESPONSIVO */
+
+@media (max-width: 1245px) {
+    background-color: var(--cor1);;
+}
